@@ -83,7 +83,7 @@
 </head>
 <body>
   <header>
-    <img src="https://raw.githubusercontent.com/MYDICKCOIN/mydickcoin/main/mydick-logo.png" alt="$MYDICK Logo" />
+    <img src="https://raw.githubusercontent.com/MYDICKCOIN/MYDICKCOIN/main/-aphq60.jpg" alt="$MYDICK Logo" />
     <h1>$MYDICK Coin</h1>
     <p class="lead">The hardest coin on Solana. Always up. Never soft.🍆</p>
     <a class="cta" href="https://pump.fun/5DWTroWfoNrZswySvDd67vv4cbai5yXzG7VrXp8wpump" target="_blank">Buy on Pump.fun</a>
@@ -108,7 +108,7 @@
     <p>$MYDICK aims to become the most iconic memecoin in crypto. We’re here to grow harder and faster than any other project — and we’re doing it with laughs, loyalty, and no limits. We believe that with community power and degen energy, even $MYDICK can outgrow $DOGE, $TRUMP, and $BTC. 🍆</p>
   </section>  <section class="info">
     <h2>About $MYDICK</h2>
-    <img src="https://raw.githubusercontent.com/MYDICKCOIN/mydickcoin/main/mydick-logo.png" alt="$MYDICK Coin Logo">
+    <img src="https://raw.githubusercontent.com/MYDICKCOIN/MYDICKCOIN/main/-aphq60.jpg" alt="$MYDICK Coin Logo">
     <p>$MYDICK is a Solana-based meme coin launched with zero tax, fully burned LP, and a supply of 6.9 billion tokens. It's a bold, no-utility, full-send community coin backed by pure meme momentum.</p>
   </section>  <section class="roadmap">
     <h2>Roadmap (Meme-Mode)</h2>
